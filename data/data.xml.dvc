@@ -2,3 +2,10 @@ outs:
 - md5: a304afb96060aad90176268345e10355
   size: 37891850
   path: data.xml
+md5: f259875c74443a07bebd7fd69946f1e1
+frozen: true
+deps:
+- path: data/data.xml
+  repo:
+    url: https://github.com/roman807/dvc-practice
+    rev_lock: bf155eea8be547ae7c257f31a49e2a21bd39cf76
